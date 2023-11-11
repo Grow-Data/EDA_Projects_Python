@@ -1,4 +1,4 @@
-# EDA-Projects-Python
+# EDA_Projects_Python
 👋 Welcome to EDA_Projects_Python's Repository!
 
 **About Me:**
