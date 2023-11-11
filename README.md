@@ -1,16 +1,16 @@
 # EDA_Projects_Python
 👋 Welcome to EDA_Projects_Python's Repository!
 
-**About Me:**
+## About Me
 I'm passionate about unraveling stories hidden in data! As a data enthusiast, I thrive on exploring and analyzing datasets to extract meaningful insights.
 
-**What You'll Find Here:**
+## What You'll Find Here
 📊 Exploratory Data Analysis (EDA): Dive into my collection of EDA projects, where I leverage Python and its libraries like NumPy, pandas, Matplotlib, Seaborn and other powerful tools to analyse datasets, visualize trends, and unearth valuable patterns.
 
-**Why EDA Matters:**
+## Why EDA Matters
 Understanding the nuances of data is crucial for informed decision-making. EDA not only transforms raw data into valuable insights but also paints a vivid picture of the underlying narrative.
 
-**Steps Involved During EDA:**
+## Steps Involved During EDA
 Here's a quick glance at the key steps involved:
 
 **Step 1- Dataset Selection**
@@ -29,4 +29,4 @@ In this stage, we engage in formulating atleast four intriguing questions about 
 This section serves as a comprehensive wrap-up of the data exploration and analysis.The goal is to consolidate the findings, highlight interesting insights, and propose ideas for future work based on the dataset. Additionally, I have provided links to resources that proved useful and helpful and to enhnavce the understanding the undertaken workduring the analysis.
 
 
-Happy exploring and analyzing! Cheers to unraveling insights through the power of exploratory data analysis! 🚀
+### Happy exploring and analyzing! Cheers to unraveling insights through the power of exploratory data analysis! 🚀
